@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Resize dmg\thdiutil resize -size 25G $FILENAME"
